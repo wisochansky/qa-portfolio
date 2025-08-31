@@ -1,0 +1,12 @@
+# Test Case Template
+
+**ID:** TC-001  
+**Title:** [Назва тест-кейсу]  
+**Preconditions:** [Попередні умови]  
+**Steps:**  
+1. Крок 1  
+2. Крок 2  
+3. Крок 3  
+**Expected Result:** [Очікуваний результат]  
+**Actual Result:** [Фактичний результат]  
+**Status:** Pass / Fail
