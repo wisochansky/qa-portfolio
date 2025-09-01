@@ -1,3 +1,3 @@
-# Checklist for saucedemo.com
+#Checklist for saucedemo.com
 
 ## Login
